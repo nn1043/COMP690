@@ -1,1 +1,0 @@
-SELECT * FROM `comp690.SampleData.masterlist_table` LIMIT 1000
